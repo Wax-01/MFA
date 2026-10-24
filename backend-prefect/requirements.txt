@@ -1,0 +1,7 @@
+prefect>=3,<4
+fastapi
+uvicorn[standard]
+psycopg[binary,pool]
+pyjwt
+python-dotenv
+segno
